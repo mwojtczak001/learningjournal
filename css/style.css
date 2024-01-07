@@ -61,16 +61,17 @@ p {
 }
 
 .date {
-    margin-top: 100px;
+    margin-top: 1em;
     font-size: 0.55rem;
     margin-bottom: 1.5em;
 }
 
 .intro-title {
-    font-weight: 800;
+    font-weight: 900;
     font-size: 1.15rem;
     margin-bottom: 1em;
     cursor: pointer;
+    color: darkmagenta;
 }
 
 .blog-grid {
