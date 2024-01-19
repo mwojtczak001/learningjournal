@@ -58,6 +58,9 @@ p {
     background-size: cover;
     padding: 100px 0;
     color: black;
+
+    background: black;
+    background-blend-mode: multiply;
 }
 
 .date {
