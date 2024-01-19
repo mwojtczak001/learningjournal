@@ -57,7 +57,8 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     padding: 100px 0;
-    color: black;
+    color: whitesmoke;
+    font-weight: bold;
 
     background-color: #616161;
     background-blend-mode: multiply;
